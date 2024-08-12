@@ -444,18 +444,9 @@
   리포팅 및 피드백: 테스트 결과를 보고하고, 문제 해결과 품질 개선을 위한 피드백을 제공합니다.
   이러한 접근 방식을 통해 프로젝트의 품질을 체계적으로 관리하고, 리스크를 효과적으로 대응하며, 테스트 과정의 투명성과 신뢰성을 높일 수 있습니다.
 
+  
+
 - 이성근(ICISTr빌링팀)이(가) 만든 ----품질계획에서 프로젝트 계획 및 품질목표수립에 대해 자세히 기술해줘 ...
-
-  - ![👍](https://statics.teams.cdn.office.net/evergreen-assets/personal-expressions/v2/assets/emoticons/yes/default/30_anim_f.png?v=v70)
-  - ![❤️](https://statics.teams.cdn.office.net/evergreen-assets/personal-expressions/v2/assets/emoticons/heart/default/30_anim_f.png?v=v34)
-  - ![😆](https://statics.teams.cdn.office.net/evergreen-assets/personal-expressions/v2/assets/emoticons/laugh/default/30_anim_f.png?v=v41)
-  - ![😮](https://statics.teams.cdn.office.net/evergreen-assets/personal-expressions/v2/assets/emoticons/surprised/default/30_anim_f.png?v=v16)
-  - 
-  - 
-
-  
-
-  
 
   
 
